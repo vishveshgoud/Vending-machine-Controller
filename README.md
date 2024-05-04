@@ -230,3 +230,6 @@ module vending_tb(
 
 endmodule
 --------------------------------------
+# The Simulation Output
+
+![vending](https://github.com/vishveshgoud/Vending-machine-Controller/assets/147975068/4429ef01-1035-4235-a60e-566d3196c234)
